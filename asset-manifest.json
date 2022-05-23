@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/anton-samkov-design-diploma/static/css/main.727990c4.css",
+    "main.css": "/anton-samkov-design-diploma/static/css/main.182c1194.css",
     "main.js": "/anton-samkov-design-diploma/static/js/main.17a0dca5.js",
     "static/media/Background.mp4": "/anton-samkov-design-diploma/static/media/Background.eca9d28120e9e12d7fe6.mp4",
     "index.html": "/anton-samkov-design-diploma/index.html",
-    "main.727990c4.css.map": "/anton-samkov-design-diploma/static/css/main.727990c4.css.map",
+    "main.182c1194.css.map": "/anton-samkov-design-diploma/static/css/main.182c1194.css.map",
     "main.17a0dca5.js.map": "/anton-samkov-design-diploma/static/js/main.17a0dca5.js.map"
   },
   "entrypoints": [
-    "static/css/main.727990c4.css",
+    "static/css/main.182c1194.css",
     "static/js/main.17a0dca5.js"
   ]
 }
