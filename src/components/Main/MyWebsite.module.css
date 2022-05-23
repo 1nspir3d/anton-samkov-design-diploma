@@ -1,0 +1,1269 @@
+.root {
+  height: 5340px;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  position: relative;
+  background-color: #f5f5f5;
+  /* overflow: hidden; */
+}
+
+.image14 {
+  width: 100%;
+  height: 304px;
+  position: absolute;
+  left: -1px;
+  top: 5036px;
+}
+
+.image142 {
+  width: 100%;
+  height: 1080px;
+  position: absolute;
+  left: -1px;
+  top: 0;
+}
+
+.logo {
+  width: 46px;
+  height: 48px;
+  align-items: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 58px;
+}
+
+.group4 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+
+.home {
+  color: #f5f5f5;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 435px;
+  top: 76px;
+  white-space: nowrap;
+  transition: all .3s linear;
+}
+
+.home:hover,
+.home2:hover,
+.services:hover,
+.services2:hover,
+.works:hover,
+.works2:hover,
+.contacts:hover,
+.contacts2:hover {
+  color: #b41f56;
+  cursor: pointer;
+}
+
+.services {
+  color: #f5f5f5;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 614px;
+  top: 76px;
+  white-space: nowrap;
+  transition: all .3s linear;
+}
+
+.works {
+  color: #f5f5f5;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 813px;
+  top: 76px;
+  white-space: nowrap;
+  transition: all .3s linear;
+}
+
+.contacts {
+  color: #f5f5f5;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 994px;
+  top: 76px;
+  white-space: nowrap;
+  transition: all .3s linear;
+}
+
+.logIn {
+  color: #f5f5f5;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1529px;
+  top: 72px;
+  white-space: nowrap;
+  width: 108px;
+  height: 32px;
+  display: block;
+  transition: all .5s linear;
+}
+
+.unnamed {
+  width: 1px;
+  height: 15px;
+  background-color: white;
+  position: absolute;
+  left: 1429px;
+  top: 81px;
+}
+
+.eng {
+  color: #b41f56;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1437px;
+  top: 78px;
+  white-space: nowrap;
+}
+
+.eng:hover {
+  cursor: pointer;
+}
+
+.unnamed2 {
+  color: #f5f5f5;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1390px;
+  top: 78px;
+  white-space: nowrap;
+  transition: all .3s linear;
+}
+
+.unnamed2:hover {
+  color: #b41f56;
+  cursor: pointer;
+}
+
+.signUp {
+  color: #f5f5f5;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  width: 108px;
+  height: 32px;
+  position: absolute;
+  left: 1637px;
+  top: 72px;
+  background-color: #b41f56;
+  display: block;
+}
+
+.logo2 {
+  width: 93px;
+  height: 97px;
+  position: absolute;
+  left: 913px;
+  top: 182px;
+}
+
+.group42 {
+  /* position: absolute; */
+  /* left: 47.5%; */
+  /* right: 47.6562%; */
+  /* top: 8.146%; */
+  /* bottom: 90.0374%; */
+  overflow: visible;
+  width: 62px;
+}
+
+.sAMKOVDESIGN {
+  color: #f5f5f5;
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 750px;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  left: 584px;
+  top: 555px;
+}
+
+.label {
+  color: #363636;
+  font-size: 48px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+
+.label2 {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+
+.labelWrapper {
+  font-size: 48px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+
+.sAMKOVDESIGNIsASpaceWhereCreat {
+  width: 1091px;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  left: 414px;
+  top: 1363px;
+}
+
+.oURWORKS {
+  color: #363636;
+  font-size: 48px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 334px;
+  position: absolute;
+  left: 793px;
+  top: 2975px;
+}
+
+.sAMKOVDESIGN2 {
+  transform-origin: top left;
+  color: #f5f5f5;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 907px;
+  top: 5130px;
+  white-space: nowrap;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.logo3 {
+  transform-origin: top left;
+  width: 46px;
+  height: 48px;
+  align-items: flex-start;
+  position: absolute;
+  left: 937px;
+  top: 5075px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.group43 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+
+._2021AllRightsReserved {
+  transform-origin: top left;
+  color: #f5f5f5;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 500;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 830px;
+  top: 5270px;
+  white-space: nowrap;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.home2 {
+  transform-origin: top left;
+  color: #f5f5f5;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 644px;
+  top: 5218px;
+  white-space: nowrap;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  transition: all .3s linear;
+}
+
+.services2 {
+  transform-origin: top left;
+  color: #f5f5f5;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 824px;
+  top: 5218px;
+  white-space: nowrap;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  transition: all .3s linear;
+}
+
+.works2 {
+  transform-origin: top left;
+  color: #f5f5f5;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1021px;
+  top: 5218px;
+  white-space: nowrap;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  transition: all .3s linear;
+}
+
+.contacts2 {
+  transform-origin: top left;
+  color: #f5f5f5;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1203px;
+  top: 5218px;
+  white-space: nowrap;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  transition: all .3s linear;
+}
+
+.sERVICES {
+  color: #363636;
+  font-size: 48px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 246px;
+  position: absolute;
+  left: 822px;
+  top: 2087px;
+}
+
+.bRANDING {
+  color: #363636;
+  font-size: 24px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 326px;
+  top: 2202px;
+  white-space: nowrap;
+  transition: all .3s linear;
+}
+
+.bRANDING:hover {
+  color: #000000;
+  cursor: pointer;
+}
+
+.wEB {
+  color: #363636;
+  font-size: 24px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 735px;
+  top: 2202px;
+  white-space: nowrap;
+  transition: all .3s linear;
+}
+
+.wEB:hover {
+  color: #000000;
+  cursor: pointer;
+}
+
+.lOGO {
+  color: #363636;
+  font-size: 24px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1067px;
+  top: 2202px;
+  white-space: nowrap;
+  transition: all .3s linear;
+}
+
+.lOGO:hover {
+  color: #000000;
+  cursor: pointer;
+}
+
+.mARKETING {
+  color: #363636;
+  font-size: 24px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1411px;
+  top: 2202px;
+  white-space: nowrap;
+  transition: all .3s linear;
+}
+
+.mARKETING:hover {
+  color: #000000;
+  cursor: pointer;
+}
+
+._480 {
+  color: #363636;
+  font-size: 48px;
+  line-height: 60px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  width: 261px;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  left: 390px;
+  top: 4604px;
+}
+
+._30000 {
+  color: #363636;
+  font-size: 48px;
+  line-height: 60px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  width: 261px;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  left: 683px;
+  top: 4604px;
+}
+
+._5000 {
+  color: #363636;
+  font-size: 48px;
+  line-height: 60px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  width: 261px;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  left: 976px;
+  top: 4604px;
+}
+
+._215 {
+  color: #363636;
+  font-size: 48px;
+  line-height: 60px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  width: 261px;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  left: 1269px;
+  top: 4604px;
+}
+
+.projectsCompleted {
+  color: #363636;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 261px;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  left: 390px;
+  top: 4672px;
+}
+
+.aPR {
+  color: #363636;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 261px;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  left: 683px;
+  top: 4672px;
+}
+
+.hoursSavedAnnually {
+  color: #363636;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 261px;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  left: 976px;
+  top: 4672px;
+}
+
+.uniqueUsers {
+  color: #363636;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 261px;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  left: 1269px;
+  top: 4672px;
+}
+
+.sequrityAppDesign1 {
+  width: 381px;
+  height: 294px;
+  position: absolute;
+  left: 174px;
+  top: 3494px;
+  background-image:
+    /* webpackIgnore: true */
+    url('assets/sequrityAppDesign1.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.photo_202222_213351 {
+  width: 380px;
+  height: 294px;
+  position: absolute;
+  left: 1365px;
+  top: 3139px;
+  background-image:
+    /* webpackIgnore: true */
+    url('assets/photo_202222_213351.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.slide16_971 {
+  width: 380px;
+  height: 294px;
+  position: absolute;
+  left: 1365px;
+  top: 3494px;
+  background-image:
+    /* webpackIgnore: true */
+    url('assets/slide16_971.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.instagramPost33 {
+  width: 381px;
+  height: 294px;
+  position: absolute;
+  left: 968px;
+  top: 3494px;
+  background-image:
+    /* webpackIgnore: true */
+    url('assets/instagramPost33.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.slide16_9142 {
+  width: 381px;
+  height: 294px;
+  position: absolute;
+  left: 174px;
+  top: 3139px;
+  background-image:
+    /* webpackIgnore: true */
+    url('assets/slide16_9142.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.slide16_9142:hover,
+.instagramPost32:hover,
+.instagramPost111:hover,
+.photo_202222_213351:hover,
+.sequrityAppDesign1:hover,
+.instagramPost211:hover,
+.instagramPost33:hover,
+.slide16_971:hover,
+.instagramPost11:hover,
+.instagramPost51:hover,
+.unsplash_DLghs4gQrAI1:hover,
+.photo_2021822_2130151:hover {
+  cursor: pointer;
+}
+
+.instagramPost211 {
+  width: 381px;
+  height: 294px;
+  position: absolute;
+  left: 571px;
+  top: 3494px;
+  background-image:
+    /* webpackIgnore: true */
+    url('assets/instagramPost211.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.instagramPost32 {
+  width: 381px;
+  height: 294px;
+  position: absolute;
+  left: 571px;
+  top: 3139px;
+  background-image:
+    /* webpackIgnore: true */
+    url('assets/instagramPost32.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.instagramPost111 {
+  width: 381px;
+  height: 294px;
+  position: absolute;
+  left: 968px;
+  top: 3139px;
+  background-image:
+    /* webpackIgnore: true */
+    url('assets/instagramPost111.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.instagramPost51 {
+  width: 381px;
+  height: 296px;
+  position: absolute;
+  left: 571px;
+  top: 3849px;
+  background-image:
+    /* webpackIgnore: true */
+    url('assets/instagramPost51.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.instagramPost11 {
+  width: 381px;
+  height: 296px;
+  position: absolute;
+  left: 174px;
+  top: 3849px;
+  background-image:
+    /* webpackIgnore: true */
+    url('assets/instagramPost11.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.photo_2021822_2130151 {
+  width: 380px;
+  height: 297px;
+  position: absolute;
+  left: 1365px;
+  top: 3849px;
+  background-image:
+    /* webpackIgnore: true */
+    url('assets/photo_2021822_2130151.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.unsplash_DLghs4gQrAI1 {
+  width: 381px;
+  height: 294px;
+  position: absolute;
+  left: 968px;
+  top: 3849px;
+  background-image:
+    /* webpackIgnore: true */
+    url('assets/unsplash_DLghs4gQrAI1.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.identy {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 326px;
+  top: 2266px;
+  white-space: nowrap;
+}
+
+.webSite {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 735px;
+  top: 2266px;
+  white-space: nowrap;
+}
+
+.graphicDesign {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 326px;
+  top: 2316px;
+  white-space: nowrap;
+}
+
+.internetShops {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 735px;
+  top: 2316px;
+  white-space: nowrap;
+}
+
+.typography {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 326px;
+  top: 2366px;
+  white-space: nowrap;
+}
+
+.uIUX {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 735px;
+  top: 2366px;
+  white-space: nowrap;
+}
+
+.navigation {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 326px;
+  top: 2416px;
+  white-space: nowrap;
+}
+
+.app {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 735px;
+  top: 2416px;
+  white-space: nowrap;
+}
+
+.package {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 327px;
+  top: 2466px;
+  white-space: nowrap;
+}
+
+.development {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 735px;
+  top: 2466px;
+  white-space: nowrap;
+}
+
+.developmentOfLogosWithAnImpres {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1066px;
+  top: 2266px;
+  white-space: nowrap;
+}
+
+.sSM {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1411px;
+  top: 2266px;
+  white-space: nowrap;
+}
+
+.sEO {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1411px;
+  top: 2315px;
+  white-space: nowrap;
+}
+
+.pR {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1411px;
+  top: 2364px;
+  white-space: nowrap;
+}
+
+.context {
+  color: #363636;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 300;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1411px;
+  top: 2413px;
+  white-space: nowrap;
+}
+
+.uIUXBankingApp {
+  color: #000;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: 43px;
+  position: absolute;
+  left: 174px;
+  top: 3433px;
+}
+
+.webBannerDesign {
+  color: #000;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: 43px;
+  position: absolute;
+  left: 571px;
+  top: 3433px;
+}
+
+.webBannerDesign2 {
+  color: #000;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: 43px;
+  position: absolute;
+  left: 969px;
+  top: 3433px;
+}
+
+.sciFiInterface {
+  color: #000;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: 43px;
+  position: absolute;
+  left: 1365px;
+  top: 3433px;
+}
+
+.vPNAppDesignUIUX {
+  color: #000;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 226px;
+  height: 43px;
+  position: absolute;
+  left: 1365px;
+  top: 3788px;
+}
+
+.sCIFIINTERFACEDESIGN {
+  color: #000;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 187px;
+  height: 43px;
+  position: absolute;
+  left: 968px;
+  top: 3788px;
+}
+
+.mobileMusicAppDesign {
+  color: #000;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 208px;
+  height: 43px;
+  position: absolute;
+  left: 572px;
+  top: 3788px;
+}
+
+.uIUXSequrityMobileAppDesign {
+  color: #000;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: 40px;
+  position: absolute;
+  left: 174px;
+  top: 3739px;
+}
+
+.lMinimalisticLogo2 {
+  color: #000;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 174px;
+  top: 4146px;
+  white-space: nowrap;
+}
+
+.webBannerPUMA {
+  color: #000;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 572px;
+  top: 4146px;
+  white-space: nowrap;
+}
+
+.hUDInterfaceDesign {
+  color: #000;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 968px;
+  top: 4146px;
+  white-space: nowrap;
+}
+
+.neonLogo {
+  color: #000;
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1364px;
+  top: 4146px;
+  white-space: nowrap;
+}
+
+.ellipse1 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 1854px;
+  top: 1139px;
+  overflow: visible;
+}
+
+.ellipse2 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 1854px;
+  top: 1167px;
+  overflow: visible;
+}
+
+.ellipse3 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 1854px;
+  top: 1195px;
+  overflow: visible;
+}
+
+.vector1 {
+  width: 2px;
+  max-width: 100%;
+  height: 127.5px;
+  max-height: 100%;
+  position: absolute;
+  left: 1862px;
+  top: 1235px;
+  overflow: visible;
+}
+
+.ellipse12 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 207.4999px;
+  top: 1863.9999px;
+  overflow: visible;
+}
+
+.ellipse22 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 179.4999px;
+  top: 1863.9999px;
+  overflow: visible;
+}
+
+.ellipse32 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 151.4999px;
+  top: 1863.9999px;
+  overflow: visible;
+}
+
+.vector12 {
+  width: 2px;
+  max-width: 100%;
+  height: 2px;
+  max-height: 100%;
+  position: absolute;
+  top: 1871.9999px;
+  overflow: visible;
+}
+
+.ellipse13 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 1696px;
+  top: 2724px;
+  overflow: visible;
+}
+
+.ellipse23 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 1724px;
+  top: 2724px;
+  overflow: visible;
+}
+
+.ellipse33 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 1752px;
+  top: 2724px;
+  overflow: visible;
+}
+
+.vector13 {
+  width: 2px;
+  max-width: 100%;
+  height: 2px;
+  max-height: 100%;
+  position: absolute;
+  left: 1792px;
+  overflow: visible;
+}
+
+.ellipse14 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 44px;
+  top: 4589.4999px;
+  overflow: visible;
+}
+
+.ellipse24 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 44px;
+  top: 4561.4999px;
+  overflow: visible;
+}
+
+.ellipse34 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 44px;
+  top: 4533.4999px;
+  overflow: visible;
+}
+
+.vector14 {
+  width: 2px;
+  max-width: 100%;
+  height: 2px;
+  max-height: 100%;
+  position: absolute;
+  overflow: visible;
+}

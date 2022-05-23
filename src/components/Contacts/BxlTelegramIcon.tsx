@@ -1,0 +1,13 @@
+import { memo, SVGProps } from 'react';
+
+const BxlTelegramIcon = (props: SVGProps<SVGSVGElement>) => (
+  <svg viewBox='0 0 65 65' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
+    <path
+      d='M55.9679 10.0669L7.94919 28.5838C4.67211 29.9 4.69107 31.7281 7.34794 32.5433L19.6763 36.3892L48.2004 18.3923C49.5492 17.5717 50.7815 18.0131 49.7686 18.9123L26.6584 39.7692H26.6529L26.6584 39.7719L25.8079 52.4794C27.0538 52.4794 27.6036 51.9079 28.3023 51.2335L34.2904 45.4106L46.7461 54.6108C49.0427 55.8756 50.6921 55.2256 51.2636 52.4848L59.44 13.9506C60.2769 10.595 58.159 9.07563 55.9679 10.0669V10.0669Z'
+      fill='#363636'
+    />
+  </svg>
+);
+
+const Memo = memo(BxlTelegramIcon);
+export { Memo as BxlTelegramIcon };
