@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/anton-samkov/static/css/main.727990c4.css",
-    "main.js": "/anton-samkov/static/js/main.2b82471d.js",
-    "static/media/Background.mp4": "/anton-samkov/static/media/Background.eca9d28120e9e12d7fe6.mp4",
-    "index.html": "/anton-samkov/index.html",
-    "main.727990c4.css.map": "/anton-samkov/static/css/main.727990c4.css.map",
-    "main.2b82471d.js.map": "/anton-samkov/static/js/main.2b82471d.js.map"
+    "main.css": "/anton-samkov-deploy/static/css/main.727990c4.css",
+    "main.js": "/anton-samkov-deploy/static/js/main.fd1504ec.js",
+    "static/media/Background.mp4": "/anton-samkov-deploy/static/media/Background.eca9d28120e9e12d7fe6.mp4",
+    "index.html": "/anton-samkov-deploy/index.html",
+    "main.727990c4.css.map": "/anton-samkov-deploy/static/css/main.727990c4.css.map",
+    "main.fd1504ec.js.map": "/anton-samkov-deploy/static/js/main.fd1504ec.js.map"
   },
   "entrypoints": [
     "static/css/main.727990c4.css",
-    "static/js/main.2b82471d.js"
+    "static/js/main.fd1504ec.js"
   ]
 }
