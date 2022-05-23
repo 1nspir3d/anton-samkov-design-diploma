@@ -112,7 +112,7 @@ const Logo: FC<Props> = memo(function MyWebsite(props = {}) {
       <div className={`${classes.logo} ${props.classes?.logo || ''}`}>
         <Group4Icon className={`${classes.group4} ${props.classes?.group4 || ''}`} />
       </div>
-      <Link to="/" className={`${classes.home} ${props.classes?.home || ''}`}>Home</Link>
+      <Link to="/anton-samkov-design-diploma" className={`${classes.home} ${props.classes?.home || ''}`}>Home</Link>
       <button onClick={(e) => {
         const homeElem = document.getElementById("services")
         homeElem?.scrollIntoView({behavior: 'smooth'})
@@ -121,7 +121,7 @@ const Logo: FC<Props> = memo(function MyWebsite(props = {}) {
         const homeElem = document.getElementById("works")
         homeElem?.scrollIntoView({behavior: 'smooth'})
       }} className={`${classes.works} ${props.classes?.works || ''}`}>Works</button>
-      <Link to="/contacts" className={`${classes.contacts} ${props.classes?.contacts || ''}`}>Contacts</Link>
+      <Link to="/anton-samkov-design-diploma/contacts" className={`${classes.contacts} ${props.classes?.contacts || ''}`}>Contacts</Link>
       <button className={`${classes.logIn} ${props.classes?.logIn || ''}`}>Log In</button>
       <div className={`${classes.unnamed} ${props.classes?.unnamed || ''}`}> | </div>
       <button className={`${classes.eng} ${props.classes?.eng || ''}`}>Eng</button>
@@ -144,7 +144,7 @@ const Logo: FC<Props> = memo(function MyWebsite(props = {}) {
       <div className={`${classes._2021AllRightsReserved} ${props.classes?._2021AllRightsReserved || ''}`}>
         © 2021 All rights reserved.
       </div>
-      <Link to="/" className={`${classes.home2} ${props.classes?.home2 || ''}`}>Home</Link>
+      <Link to="/anton-samkov-design-diploma" className={`${classes.home2} ${props.classes?.home2 || ''}`}>Home</Link>
       <button onClick={(e) => {
         const homeElem = document.getElementById("services")
         homeElem?.scrollIntoView({behavior: 'smooth'})
@@ -153,7 +153,7 @@ const Logo: FC<Props> = memo(function MyWebsite(props = {}) {
         const homeElem = document.getElementById("works")
         homeElem?.scrollIntoView({behavior: 'smooth'})
       }} className={`${classes.works2} ${props.classes?.works2 || ''}`}>Works</button>
-      <Link to="/contacts" className={`${classes.contacts2} ${props.classes?.contacts2 || ''}`}>Contacts</Link>
+      <Link to="/anton-samkov-design-diploma/contacts" className={`${classes.contacts2} ${props.classes?.contacts2 || ''}`}>Contacts</Link>
       <Ellipse1Icon className={`${classes.ellipse1} ${props.classes?.ellipse1 || ''}`} />
       <Ellipse2Icon className={`${classes.ellipse2} ${props.classes?.ellipse2 || ''}`} />
       <Ellipse3Icon className={`${classes.ellipse3} ${props.classes?.ellipse3 || ''}`} />
@@ -174,7 +174,7 @@ const Logo: FC<Props> = memo(function MyWebsite(props = {}) {
         and trademarks.
       </div>
       <div className={`${classes.rectangle25} ${props.classes?.rectangle25 || ''}`}></div>
-      <Link to="/contacts" className={`${classes.contact} ${props.classes?.contact || ''}`}>Contact</Link>
+      <Link to="/anton-samkov-design-diploma/contacts" className={`${classes.contact} ${props.classes?.contact || ''}`}>Contact</Link>
       <div className={`${classes.rectangle26} ${props.classes?.rectangle26 || ''}`}></div>
       <div className={`${classes.consultation} ${props.classes?.consultation || ''}`}>Consultation</div>
       <div className={`${classes.logoDesign} ${props.classes?.logoDesign || ''}`}>Logo design</div>

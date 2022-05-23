@@ -20,12 +20,12 @@ export const App: FC<Props> = memo(function App(props = {}) {
     <Router>
         <ScrollToTop />
         <Routes>
-          <Route path='/' element={<Main />}/>
-          <Route path="/branding" element={<Branding />} />
-          <Route path="/contacts" element={<Contacts />} />
-          <Route path="/logo" element={<Logo />} />
-          <Route path="/marketing" element={<Marketing />} />
-          <Route path="/web" element={<Web />} />
+          <Route path='/anton-samkov-design-diploma' element={<Main />}/>
+          <Route path="/anton-samkov-design-diploma/branding" element={<Branding />} />
+          <Route path="/anton-samkov-design-diploma/contacts" element={<Contacts />} />
+          <Route path="/anton-samkov-design-diploma/logo" element={<Logo />} />
+          <Route path="/anton-samkov-design-diploma/marketing" element={<Marketing />} />
+          <Route path="/anton-samkov-design-diploma/web" element={<Web />} />
         </Routes>
     </Router>
   );

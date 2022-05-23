@@ -167,7 +167,7 @@ const Main: FC<Props> = memo(function MyWebsite(props = {}) {
       }} className={`${classes.works} ${props.classes?.works || ""}`}>
         Works
       </button>
-      <Link to={'/contacts'} className={`${classes.contacts} ${props.classes?.contacts || ""}`}>
+      <Link to={'/anton-samkov-design-diploma/contacts'} className={`${classes.contacts} ${props.classes?.contacts || ""}`}>
         Contacts
       </Link>
       <button className={`${classes.logIn} ${props.classes?.logIn || ""}`}>
@@ -261,18 +261,18 @@ const Main: FC<Props> = memo(function MyWebsite(props = {}) {
       }} className={`${classes.works2} ${props.classes?.works2 || ""}`}>
         Works
       </button>
-      <button className={`${classes.contacts2} ${props.classes?.contacts2 || ""}`}>
+      <Link to="/anton-samkov-design-diploma/contacts" className={`${classes.contacts2} ${props.classes?.contacts2 || ""}`}>
         Contacts
-      </button>
+      </Link>
       <div className={`${classes.sERVICES} ${props.classes?.sERVICES || ""}`}>
         SERVICES
       </div>
-      <Link to={'/branding'} className={`${classes.bRANDING} ${props.classes?.bRANDING || ""}`}>
+      <Link to={'/anton-samkov-design-diploma/branding'} className={`${classes.bRANDING} ${props.classes?.bRANDING || ""}`}>
         BRANDING
       </Link>
-      <Link to="/web" className={`${classes.wEB} ${props.classes?.wEB || ""}`}>WEB</Link>
-      <Link to="/logo" className={`${classes.lOGO} ${props.classes?.lOGO || ""}`}>LOGO</Link>
-      <Link to="/marketing" className={`${classes.mARKETING} ${props.classes?.mARKETING || ""}`}>
+      <Link to="/anton-samkov-design-diploma/web" className={`${classes.wEB} ${props.classes?.wEB || ""}`}>WEB</Link>
+      <Link to="/anton-samkov-design-diploma/logo" className={`${classes.lOGO} ${props.classes?.lOGO || ""}`}>LOGO</Link>
+      <Link to="/anton-samkov-design-diploma/marketing" className={`${classes.mARKETING} ${props.classes?.mARKETING || ""}`}>
         MARKETING
       </Link>
       <div className={`${classes._480} ${props.classes?._480 || ""}`}>
